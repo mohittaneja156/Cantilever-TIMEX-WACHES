@@ -1,0 +1,31 @@
+#login-body {
+    background-image: url('img1.png');
+    background-size: contain;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+#details {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#details input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#submit-button {
+    background:white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius:7px;
+    border:white;
+}
